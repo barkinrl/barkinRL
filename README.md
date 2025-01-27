@@ -31,10 +31,7 @@ Hi there! I'm a **junior software developer** passionate about learning, creatin
     - Linux environment (bash, cronjobs) 
 
 ## How to Reach Me
-<div style="display: flex; align-items: center; justify-content: space-between; gap: 3px;">
-  <div>
-    <p>📧 Email: <a href="mailto:barkinoral.bo@gmail.com">barkinoral.bo@gmail.com</a></p>
-    <p>💼 LinkedIn: <a href="https://www.linkedin.com/in/barkinrl/">https://www.linkedin.com/in/barkinrl/</a></p>
-  </div>
-  <img src="https://www.geekytees.co.uk/wp-content/uploads/2020/05/RUN-CMD-thumb.jpg" alt="stay cool" width="50" style="margin-left: 20px;">
-</div>
+- 📧 Email: [barkinoral.bo@gmail.com](mailto:barkinoral.bo@gmail.com)
+- 💼 LinkedIn: [https://www.linkedin.com/in/barkinrl/](#)
+
+<img src="https://www.geekytees.co.uk/wp-content/uploads/2020/05/RUN-CMD-thumb.jpg" alt="stay cool" width="500">
