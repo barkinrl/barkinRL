@@ -34,4 +34,4 @@ Hi there! I'm a **junior software developer** passionate about learning, creatin
 - 📧 Email: [barkinoral.bo@gmail.com](mailto:barkinoral.bo@gmail.com)
 - 💼 LinkedIn: [https://www.linkedin.com/in/barkinrl/](#)
 
-<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTZ5NTczbm02YmM1eGsyZWV5eW5nYWo5aHltemoyMnRtN3BibDljZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bASySzJH6bsxG/giphy.gif" alt="Funny cat GIF" width="200">
+<!-- <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTZ5NTczbm02YmM1eGsyZWV5eW5nYWo5aHltemoyMnRtN3BibDljZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bASySzJH6bsxG/giphy.gif" alt="Funny cat GIF" width="200">  -->
