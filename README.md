@@ -34,4 +34,4 @@ Hi there! I'm a **junior software developer** passionate about learning, creatin
 - 📧 Email: [barkinoral.bo@gmail.com](mailto:barkinoral.bo@gmail.com)
 - 💼 LinkedIn: [https://www.linkedin.com/in/barkinrl/](#)
 
-<img src="https://www.geekytees.co.uk/wp-content/uploads/2020/05/RUN-CMD-thumb.jpg" alt="stay cool" width="500">
+<img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" alt="Funny cat GIF" width="200">
